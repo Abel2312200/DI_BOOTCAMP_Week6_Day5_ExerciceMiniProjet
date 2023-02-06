@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        // case 1 : win
+        // case 2 : lost
     }
 }
